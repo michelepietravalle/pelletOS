@@ -1,2 +1,3 @@
 # pelletOS
 Scheda di controllo per stufa a pellet idro
+In seguito a questo piccolo inconveniente ( https://youtube.com/shorts/Yyo16NkP290 ) si rende indispensabile creare una scheda di controllo opensource per stufe a pellet....
